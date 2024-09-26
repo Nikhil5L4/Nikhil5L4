@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.tenor.com/r77Sc4J25JMAAAAC/banner.gif)]]
+
 <h1 align="center">Hi 👋, I'm Nikhil Chittaboina</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
